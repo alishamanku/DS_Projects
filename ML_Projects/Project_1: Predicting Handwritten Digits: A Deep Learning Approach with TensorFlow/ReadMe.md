@@ -17,8 +17,8 @@ In this report, we'll embark on a thrilling journey to unravel the mysteries of 
 
 - Behold! We summon the sacred incantations of TensorFlow's Sequential API to conjure a magnificent neural network.
 - Our creation includes:
-  - **Flatten Layer**: Transforming our pixel matrix into a sleek, one-dimensional array ready for adventure.
-  - **Dense Layers**: A symphony of interconnected neurons, dancing with the melodies of ReLU activation and softmax probabilities. 🎶🔮
+  - <span style="color:blue">**Flatten Layer**</span>: Transforming our pixel matrix into a sleek, one-dimensional array ready for adventure.
+  - <span style="color:red">**Dense Layers**</span>: A symphony of interconnected neurons, dancing with the melodies of ReLU activation and softmax probabilities. 🎶🔮
 
 ## 4. Compiling the Model 🚀🛠️
 
