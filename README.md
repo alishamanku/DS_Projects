@@ -1,5 +1,8 @@
 # DS Projects by Alisha ☀️
 
-## ML PROJECTS
+From the simplest to the most complex DS projects.
 
-### Project 1: Predicting Handwritten Digits: A Deep Learning Approach with TensorFlow
+It's all connected!
+
+#### ML PROJECTS
+- Project 1: Predicting Handwritten Digits: A Deep Learning Approach with TensorFlow
