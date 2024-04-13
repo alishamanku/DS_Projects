@@ -1,4 +1,4 @@
-# DS Projects by Alisha 🌟
+# DS Projects by Alisha ☀️
 
 ## ML PROJECTS
 
