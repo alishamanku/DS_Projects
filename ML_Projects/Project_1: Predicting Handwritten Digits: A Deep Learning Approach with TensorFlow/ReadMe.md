@@ -1,4 +1,4 @@
-## Report on MNIST Handwritten Digits Classification using TensorFlow
+# Predictinh Handwritten Digits
 
 **Introduction:**
 
