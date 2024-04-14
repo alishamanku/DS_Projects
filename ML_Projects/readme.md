@@ -1,5 +1,13 @@
 # ML Projects 🧠✨
 Welcome to the realm of machine learning magic! This folder holds the secrets to our ML adventures.
 
-## Project 1: Predicting Handwritten Digits: A Deep Learning Approach with TensorFlow
-Behold, a journey into the depths of neural networks awaits! In this enchanting project, we harness the power of TensorFlow to craft a magical model capable of deciphering handwritten digits from the mystical MNIST dataset. Prepare to be dazzled as we wield the arcane arts of deep learning to unveil the secrets hidden within each pixel. 🌟🔮
+### Project 1: Predicting Handwritten Digits: A Deep Learning Approach with TensorFlow
+
+Description: This project utilizes TensorFlow, a powerful deep learning framework, to predict handwritten digits using the famous MNIST dataset.
+
+Files:
+- `Project_1_Overview.md`: Overview of the project.
+- `Project_1_ReadMe.md`: ReadMe file with detailed instructions.
+- `Project_1_extraK.md`: Extra knowledge file providing insights into the thought process behind the project and coding methodologies.
+
+Stay tuned for more projects! 🚀
