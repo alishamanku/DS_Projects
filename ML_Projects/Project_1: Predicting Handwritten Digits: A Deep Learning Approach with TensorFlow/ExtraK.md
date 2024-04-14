@@ -25,7 +25,7 @@ Now, let's build the model!
 
 **Model Building**: Happy you made it till here! Keep ready.
 
-So, let's build the model. Sure, let's use a simple analogy involving making juice to explain the compile() step in neural networks:
+So, let's build the model. Sure, let's use a simple analogy involving making juice to explain the steps in neural networks:
 
 **Juicer Analogy**:
 
