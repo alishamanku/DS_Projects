@@ -37,5 +37,6 @@ Now, let's build the model! 🧠
 I hope this helps in making the concepts clearer and more connected! Let me know if you have any questions or if there's anything else I can assist you with. 🚀
 
 
-Here are some youtube links to watch 
-https://youtu.be/aircAruvnKk?si=3aIFoFhtWYTlqfI2 (Neuaral network Viz)
+Here are some YouTube link/s to watch 
+
+- https://youtu.be/aircAruvnKk?si=3aIFoFhtWYTlqfI2 (Neuaral network Viz)
