@@ -37,6 +37,31 @@ Now, let's build the model! 🧠
 I hope this helps in making the concepts clearer and more connected! Let me know if you have any questions or if there's anything else I can assist you with. 🚀
 
 
+Start
+|
+Load and split data
+|
+Display sample data
+|
+Normalize pixel values
+|
+Define neural network model
+|
+Compile model
+|
+Train model (epochs = 3)
+|
+Evaluate model on test data
+|
+Save model
+|
+Load saved model
+|
+Evaluate loaded model on test data
+|
+End
+
+
 Here are some YouTube link/s to watch 
 
 - https://youtu.be/aircAruvnKk?si=3aIFoFhtWYTlqfI2 (Neuaral network Viz)
