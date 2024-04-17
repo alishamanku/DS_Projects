@@ -8,9 +8,9 @@ Tip: All projects included Project Overview, and Project ReadMe.md Plus an extra
 #### ML PROJECTS
 - Project 1: Predicting Handwritten Digits: A Deep Learning Approach with TensorFlow
 
-
-Stay tuned for more projects! 🚀
-
 ### Dashboard 
 Excel 
 - Project 1: "Unlocking Insights: Analysis of Clothing Store Data-Interactive Dashboard"
+
+
+Stay tuned for more projects! 🚀
