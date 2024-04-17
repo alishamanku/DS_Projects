@@ -10,3 +10,7 @@ Tip: All projects included Project Overview, and Project ReadMe.md Plus an extra
 
 
 Stay tuned for more projects! 🚀
+
+### Dashboard 
+Excel 
+- Project 1: "Unlocking Insights: Analysis of Clothing Store Data-Interactive Dashboard"
