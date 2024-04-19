@@ -8,13 +8,18 @@ Tip: All projects included Project Overview and Project ReadMe.md Plus an extraK
 #### ML PROJECTS
 - Project 1: Predicting Handwritten Digits: A Deep Learning Approach with TensorFlow
 
+  `Tensorflow` `Keras` `Sequential neural network` `Relu` `Softmax`
+  
 ### Dashboard 
 Excel 
 - Project 1: "Unlocking Insights: Analysis of Clothing Store Data-Interactive Dashboard"
+  
+  `Data Cleaning` `Data Analysis` `Pivot tables` `Dynamic Dashboard` `Slicer`
 
 Power Bi
 - Project 1: "Super Store Data Analysis"
   
+  `Data Cleaning` `DAX queries` `Business Insights`
 
 
 Stay tuned for more projects! 🚀
