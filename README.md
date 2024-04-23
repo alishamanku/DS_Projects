@@ -21,7 +21,7 @@ Power Bi
   
   `Data Cleaning` `DAX queries` `Business Insights`
 
-R
+### R
 - Project 1: "Social Network Analysi"
   
   `igraph` `Hub and authorities` `Community detection` `Vetices and edges`
