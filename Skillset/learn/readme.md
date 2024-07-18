@@ -7,3 +7,4 @@ Spectra: Spectra is a data management platform that helps businesses analyze and
 POS Data: Point of Sale (POS) Data refers to the information collected at the register during transactions. This data includes details about sales volume, transaction values, and customer purchasing behavior.
 
 Nielsen Homescan: This is a consumer panel service provided by Nielsen that tracks household purchasing behavior. Participants use barcode scanners to record their purchases, providing detailed data on buying habits and product usage.
+https://www.kaggle.com/datasets/iamprateek/store-transaction-data/data
